@@ -24,4 +24,26 @@
 
 /* Posititoning Classes */
 
+.twothird {
+  width: 66%;
+  height: 600px;
+  float: left;
 
+}
+
+.onethird {
+  width:32%;
+  height: 600px;
+  float: right;
+}
+
+.threethird {
+  float: left;
+  width: 32%;
+  margin-top: 20px;
+  margin-left: 2%;
+}
+
+.nomar{
+  margin-left: 0px;
+}
